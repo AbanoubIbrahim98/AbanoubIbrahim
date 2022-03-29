@@ -21,6 +21,6 @@
 > SQLlite
 > Animation
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Abanoub Ibrahim![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)&show_icons=true&theme=radical)
+
 
  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AbanoubIbrahim)](https://github.com/anuraghazra/github-readme-stats)
